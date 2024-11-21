@@ -1,5 +1,5 @@
-
-
+These are the instructions to add or push files in a repository. 
+The links might not be true
 echo "# my_repo" >> README.md
 git init
 git add README.md

@@ -1,0 +1,83 @@
+    1  git --help
+    2  git config user.email="nayanadece@gmail.com"
+    3  git config user.name="Nayana K Nair"
+    4  ls
+    5  ls
+    6  clear
+    7  ls
+    8  git init
+    9  git add Sample.txt
+   10  git add Sample.txt gitintro.txt
+   11  git status
+   12  git commit -m "The changes are commited - commit 1"
+   13  git status
+   14  git configure user.name="NayanaKishore"
+   15  git config user.name="NayanaKishore"
+   16  git config user.name "NayanaKishore"
+   17  git config user.email "nayanadece@gmail.com"
+   18  git status
+   19  git commit -m "The changes are commited - commit 1"
+   20  git status
+   21  git remote add origin https://github.com/NayanaKishore/my_repo.git
+   22  git status
+   23  git push -u origin main
+   24  git push -u origin master
+   25  git push -u origin master
+   26  git config --global http.sslVerify false
+   27  git push -u origin master
+   28  git config --global http.sslbackend schannel
+   29  git push -u origin master
+   30  git add Sample.txt gitintro.txt
+   31  git status
+   32  git commit -m "The changes are commited - commit 2"
+   33  git push -u origin master
+   34  git status
+   35  ls
+   36  git add Facebook.html
+   37  git commit -m "The changes are commited - commit 3"
+   38  git push -u origin master
+   39  git commit -m "The changes are commited - commit 3"
+   40  git push -u origin master
+   41  git status
+   42  git push -u origin master
+   43  git pull
+   44  git config user.name "NayanaKishore"
+   45  git config user.email "nayanadece@gmail.com"
+   46  git init
+   47  git status
+   48  ls
+   49  git add Facebook.html
+   50  git commit -m "This is a new commit"
+   51  git push -u origin master
+   52  git status
+   53  git add Facebook.html
+   54  git remote add origin https://github.com/NayanaKishore/my_repo.git
+   55  git add Facebook.html
+   56  git commit -m "This is a new commit"
+   57  git push -u origin master
+   58  git add Hi.txt
+   59  git commit -m "This is a new commit"
+   60  git push -u origin master
+   61  git status
+   62  git fetch --all
+   63  git branch
+   64  git branch -r
+   65  git checkout -b m_branch origin/m_branch
+   66  git checkout master
+   67  git checkout m_branch
+   68  git status
+   69  git add Hi.txt
+   70  git commit 
+   71  git status
+   72  git commit -m "This is committed"
+   73  git push -u origin m_branch
+   74  git push -u origin m_branch
+   75  git push -u origin m_branch
+   76  git status
+   77  git status
+   78  git push -u origin m_branch
+   79  git push -u origin m_branch
+   80  git pull
+   81  git status
+   82  history
+   83  history >> myhistory.txt
